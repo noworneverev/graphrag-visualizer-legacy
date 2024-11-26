@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/graphrag-visualizer/static/js/main.3a8ccc4d.js",
-    "static/js/736.4f33b0ff.chunk.js": "/graphrag-visualizer/static/js/736.4f33b0ff.chunk.js",
-    "static/js/453.318c7ab1.chunk.js": "/graphrag-visualizer/static/js/453.318c7ab1.chunk.js",
-    "index.html": "/graphrag-visualizer/index.html",
-    "main.3a8ccc4d.js.map": "/graphrag-visualizer/static/js/main.3a8ccc4d.js.map",
-    "453.318c7ab1.chunk.js.map": "/graphrag-visualizer/static/js/453.318c7ab1.chunk.js.map"
+    "main.js": "/graphrag-visualizer-legacy/static/js/main.520bedb9.js",
+    "static/js/736.48bb478a.chunk.js": "/graphrag-visualizer-legacy/static/js/736.48bb478a.chunk.js",
+    "static/js/453.b63333f1.chunk.js": "/graphrag-visualizer-legacy/static/js/453.b63333f1.chunk.js",
+    "index.html": "/graphrag-visualizer-legacy/index.html",
+    "main.520bedb9.js.map": "/graphrag-visualizer-legacy/static/js/main.520bedb9.js.map",
+    "453.b63333f1.chunk.js.map": "/graphrag-visualizer-legacy/static/js/453.b63333f1.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.3a8ccc4d.js"
+    "static/js/main.520bedb9.js"
   ]
 }
