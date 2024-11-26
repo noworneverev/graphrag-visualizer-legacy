@@ -1,7 +1,7 @@
 {
-  "name": "graphrag-visualizer",
+  "name": "graphrag-visualizer-legacy",
   "version": "0.1.0",
-  "homepage": "https://noworneverev.github.io/graphrag-visualizer/",
+  "homepage": "https://noworneverev.github.io/graphrag-visualizer-legacy/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.13.0",
